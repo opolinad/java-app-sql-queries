@@ -1,1 +1,1 @@
-# java-app-sql-queries
+# Desarrollado por Daniel Andrés López Sabogal
